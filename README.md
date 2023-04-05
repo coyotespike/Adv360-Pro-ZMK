@@ -1,5 +1,7 @@
 # ADV360-PRO-ZMK
 
+A minimal commit
+
 ## To build Firmware in GitHub Actions
 
 ### Setup
